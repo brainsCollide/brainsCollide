@@ -9,10 +9,8 @@
 ---
 
 ## 🚀 Projects  
-- 🎨 **[React Portfolio](https://github.com/brainsCollide/React-Porto):** My personal portfolio built with React.  
-- 🏕️ **[goCAMP](https://github.com/brainsCollide/goCAMP):** A full-stack web application for managing camping trips.  
-- 🌍 **[Portfolio Website](https://devsoz.netlify.app/):** Showcasing my projects and skills.  
-- 📊 **[Dashboard](https://github.com/brainsCollide/Dashboard):** React and Tailwind CSS-based dashboard (backend coming soon).  
+- 🎨 **[Portfolio](https://github.com/brainsCollide/React-Porto):** My personal portfolio built with React.  
+- 📊 **[Finance App](https://github.com/brainsCollide/Dashboard):** Fullstack Web App built with Node.Js and React to manage your finances
 
 ---
 
