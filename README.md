@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Skills  
-**Languages:** HTML, CSS, JavaScript  
-**Frameworks & Libraries:** React, Node.js (Express.js)  
+**Languages:** JavaScript, Python  
+**Frameworks & Libraries:** React, Node.js (Express.js), Next.Js  
 **CSS Frameworks:** Tailwind CSS  
-**Databases:** MongoDB  
+**Databases:** MongoDB, PostgreSQL
 
 ---
 
