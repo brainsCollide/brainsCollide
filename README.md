@@ -1,36 +1,73 @@
-# Hi there, I'm Fauzan Asyraf! 👋  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Fauzan+Asyraf+%F0%9F%91%8B;Final-Year+Computer+Engineering+Student;Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing SVG" />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/brainsCollide?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/brainsCollide?style=social)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/fauzan-asyraf">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mfauzan0305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.asyrafdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-🔭 **I’m a final-year Computer Engineering student passionate about software development.**  
-💡 I enjoy building scalable applications and solving challenging problems.  
+<br>
 
----
+### 💫 About Me
+Final-year **Computer Engineering** student passionate about web development & software engineering.  
+I build scalable, user-friendly full-stack apps and love turning complex problems into clean code.  
+Currently sharpening skills in modern frontend (React/Next.js + Tailwind) and backend efficiency.
 
-## 🚀 Projects  
-- 🎨 **[Portfolio](https://github.com/brainsCollide/React-Porto):** My personal portfolio built with React.  
-- 📊 **[Finance App](https://github.com/brainsCollide/Dashboard):** Fullstack Web App built with Node.Js and React to manage your finances
-
----
-
-## 🛠️ Skills  
-**Languages:** JavaScript, Python  
-**Frameworks & Libraries:** React, Node.js (Express.js), Next.Js  
-**CSS Frameworks:** Tailwind CSS  
-**Databases:** MongoDB, PostgreSQL
-
----
-
-## 📊 GitHub Stats  
-![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brainsCollide&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainsCollide&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brainsCollide&theme=github)  
+🔭 Working on: Personal finance tools & portfolio revamp  
+🌱 Learning: TypeScript deeper, Prisma ORM, basic Docker  
+📍 Based in Turkey
 
 ---
 
-## 📫 Contact Me  
-- 📧 **Email:** [mfauzan0305@gmail.com](mailto:mfauzan0305@gmail.com)  
-- 💼 **LinkedIn:** [Fauzan Asyraf](https://www.linkedin.com/in/fauzan-asyraf)  
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/brainsCollide/Finance-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brainsCollide&repo=Finance-tracker&theme=radical" alt="Finance Tracker" />
+  </a>
+  <a href="https://github.com/brainsCollide/React-Porto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brainsCollide&repo=React-Porto&theme=radical" alt="React Portfolio" />
+  </a>
+</p>
 
-Thanks for visiting my profile! 🚀  
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode,python&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brainsCollide&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainsCollide&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainsCollide&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<div align="center">
+  <strong>Email:</strong> mfauzan0305@gmail.com • 
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fauzan-asyraf">Fauzan Asyraf</a> • 
+  <strong>Portfolio:</strong> <a href="https://www.asyrafdev.com">asyrafdev.com</a>
+</div>
+
+<br>
+
+Thanks for visiting! Feel free to explore my repos or drop a message 🚀
