@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Fauzan+Asyraf+%F0%9F%91%8B;Final-Year+Computer+Engineering+Student;Full-Stack+Developer+%7C+Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Ayo!+I'm+Fauzan+Asyraf+%F0%9F%91%8B;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:mfauzan0305@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.asyrafdev.com">
+  <a href="https://oz-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -41,14 +41,16 @@ Currently sharpening skills in modern frontend (React/Next.js + Tailwind) and ba
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode,python&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,postgres,flutter,git,github,vscode,python&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brainsCollide&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainsCollide&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
