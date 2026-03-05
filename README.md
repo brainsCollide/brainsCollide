@@ -21,8 +21,8 @@ Final-year **Computer Engineering** student passionate about web development & s
 I build scalable, user-friendly full-stack apps and love turning complex problems into clean code.  
 Currently sharpening skills in modern frontend (React/Next.js + Tailwind) and backend efficiency.
 
-🔭 Working on: Personal finance tools & portfolio revamp  
-🌱 Learning: TypeScript deeper, Prisma ORM, basic Docker  
+🔭 Working on: Personal finance tools & Freelance Project 
+🌱 Learning: TypeScript deeper, PostgreSQL, basic Docker  
 📍 Based in Turkey
 
 ---
