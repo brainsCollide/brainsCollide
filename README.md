@@ -22,7 +22,6 @@ I build scalable, user-friendly full-stack apps and love turning complex problem
 Currently sharpening skills in modern frontend (React/Next.js + Tailwind) and backend efficiency.
 
 🔭 Working on: Personal finance tools & Freelance Project
-
 🌱 Learning: TypeScript deeper, PostgreSQL, basic Docker  
 📍 Based in Turkey
 
